@@ -1,0 +1,42 @@
+{
+  "logs": [
+    {
+      "message": "study graphQL",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2021-04-25T14:09:29.542Z",
+      "id": 1
+    },
+    {
+      "message": "watch movie",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2021-04-25T14:09:49.507Z",
+      "id": 2
+    },
+    {
+      "message": "teached sang-bum",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2021-10-24T05:22:00.123Z",
+      "id": 3
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    }
+  ]
+}
